@@ -49,8 +49,22 @@ Switch1	000C:85CC:1DA7	00D0:D311:C788	N/A	N/A<br>
 ________________________________________
 # Output (Screenshots)
 •	PDU details for local communication<br>
+
+<img width="1600" height="836" alt="WhatsApp Image 2026-11-17 at 3 34 17 PM" src="https://github.com/user-attachments/assets/8be29f9c-552d-4e5c-aabd-9cce7e8c2f25" />
+
+
 •	PDU details for remote communication<br>
+
+
+<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/1c4e47b2-ca05-41b9-bdb1-6bf4013ae0f2" />
+
+
 •	Tables showing MAC/IP changes through each device<br>
+
+
+
+
+
 ________________________________________
 # Result
 Successfully captured and analyzed MAC and IP addresses for both local and remote communications. Verified that MAC addresses change at each hop while IP addresses remain constant from source to destination.
