@@ -13,8 +13,10 @@ ________________________________________
 # Description:
 •	The topology contains a local network (172.16.31.0/24) connected to a remote network (10.10.10.0/24) via a router.<br>
 •	Devices include PCs, switches, hub, and wireless AP.<br>
-(Insert screenshot of your Packet Tracer setup here)<br>
-________________________________________
+
+<img width="959" height="504" alt="image" src="https://github.com/user-attachments/assets/7933c0ee-d54d-4a6d-8971-17b9270d1366" />
+
+_______________________________________
 # IP Addressing Table
 (Example – actual values from simulation)<br>
 Device	IPv4 Address	Subnet Mask	MAC Address<br>
